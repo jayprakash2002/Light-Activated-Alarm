@@ -1,0 +1,7 @@
+
+S. No.	Component Pin	Arduino UNO Pin
+1	LDR VCC	5V
+2	LDR GND	GND
+3	LDR DO	Digital Pin 2 (D2)
+4	Buzzer (+)	Digital Pin 8 (D8)
+5	Buzzer (−)	GND
